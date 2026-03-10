@@ -1,4 +1,3 @@
-    
 import math
 
 def generate_anchors(feature_size, image_size, scales, aspect_ratios):
